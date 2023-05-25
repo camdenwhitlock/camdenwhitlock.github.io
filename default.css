@@ -1,0 +1,40 @@
+body{
+    background-color: beige;
+}
+
+head{
+    color: yellowgreen;
+    font-size: x-large;
+}
+
+h1{
+    color: palevioletred;
+    font-size: large;
+}
+
+h2{
+    color: palevioletred;
+    font-size: large;
+}
+
+a:link{
+    color: orange
+}
+
+a:visited{
+    color:red
+}
+
+p{font-family: "Arial", "Helvetica", sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+#dog2 img{
+    background-color: aquamarine;
+    padding: 20px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 3px;
+    position:absolute; top: 75px; left: 600px
+}
