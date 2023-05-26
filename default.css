@@ -1,0 +1,73 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: teal;
+    font-size: xx-large;
+}
+
+h2{
+    color: blue;
+    font-size: x-large;
+}
+
+h3{
+    color: blue;
+    font-size: x-large;
+}
+
+h4{
+    color: blue;
+    font-size: x-large;
+}
+
+a:link{
+    color: orange
+}
+
+a:visited{
+    color:red
+}
+
+p{
+    font-family: "mitr", sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+#dog2{
+    background-color: aquamarine;
+    padding: 20px;
+    border-style: solid;
+    border-color: palegreen;
+    border-width: 3px;
+    position:absolute; top: 75px; left: 75px
+}
+
+#dog5{
+    background-color: palegreen;
+    padding: 20px;
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: 3px;
+    position:absolute; top: 800px; left: 75px
+}
+
+#rodentstxt{
+    background-color: azure;
+    padding: 10px;
+    border-style: dotted;
+    border-color: blueviolet;
+    border-width: 3px;
+    position: absolute; top: 1250px; left: 300px
+}
+
+#rodentsimg{
+    background-color: azure;
+    padding: 10px;
+    border-style: dotted;
+    border-color: blueviolet;
+    border-width: 3px;
+    position: absolute; top: 1500px; left: 600px
+}
